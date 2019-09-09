@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Maggi is an international brand of seasonings, instant soups,",
+    "title":"Maggi is an international brand of seasonings, instant soups,",
+    "category":"ladies_outerwear",
+    "price":41.60,
+    "description":"Maggi is an international brand of seasonings, instant soups,;",
+    "image":"https://github.com/azania-neptune-labs/Galleries/blob/master/clover-nestle/maggi-logo-round.png?raw=true",
+    "largeImage":"https://raw.githubusercontent.com/azania-neptune-labs/Galleries/master/clover-nestle/maggi-logo-round.png"
+  },
+  {
+    "name":"chocolate and malt powder typically mixed with hot water and milk to produce a beverage popular in Oceania,",
+    "title":"chocolate and malt powder typically mixed with hot water and milk to produce a beverage popular in Oceania,",
+    "category":"ladies_outerwear",
+    "price":45.90,
+    "description":"Brighten up your commute on gloomy days. This lightweight jacket features a subtle grid texture and a punch of bright pink at each side panel.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Features:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;100% polyester dobby shell with jersey lining.&lt;/li&gt;&lt;li&gt;Packable zip-in hood with contrast pink zipper.&lt;/li&gt;&lt;li&gt;Cadet collar and elastic cuffs.&lt;/li&gt;&lt;li&gt;Adjustable toggles at waist can be cinched for a flattering fit.&lt;/li&gt;&lt;li&gt;Available in grey/dark rose with the white Google logo embroidered at left chest.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+    "image":"https://github.com/azania-neptune-labs/Galleries/blob/master/clover-nestle/milo-logo-round.png?raw=true",
+    "largeImage":"https://raw.githubusercontent.com/azania-neptune-labs/Galleries/master/clover-nestle/milo-logo-round.png"
+  },
+  {
+    "name":"is a brand of coffee made by Nestlé. It comes in many different forms.",
+    "title":"is a brand of coffee made by Nestlé. It comes in many different forms",
+    "category":"ladies_outerwear",
+    "price":48.00,
+    "description":"is a chocolate-covered wafer bar confection created by Rowntree's of York;",
+    "image":"https://github.com/azania-neptune-labs/Galleries/blob/master/clover-nestle/nescafe-3in1-logo-round.png?raw=true",
+    "largeImage":"https://raw.githubusercontent.com/azania-neptune-labs/Galleries/master/clover-nestle/nescafe-3in1-logo-round.png"
+  },
+  {
+    "name":"KitKat is a perfect balance of chocolate and wafer",
+    "title":"KitKat is a perfect balance of chocolate and wafer.",
+    "category":"ladies_outerwear",
+    "price":36.50,
+    "description":"A delicious evaporated milk alternative to cream for creating meals and treats. A good source of calcium.;",
+    "image":"https://github.com/azania-neptune-labs/Galleries/blob/master/clover-nestle/kitkat-logo-round.png?raw=true",
+    "largeImage":"https://raw.githubusercontent.com/azania-neptune-labs/Galleries/master/clover-nestle/kitkat-logo-round.png"
+  },
+  {
+    "name":"A delicious evaporated milk alternative to cream for creating meals and treats. A good source of calcium.",
+    "title":"A delicious evaporated milk alternative to cream for creating meals and treats. A good source of calcium.",
+    "category":"ladies_outerwear",
+    "price":84.85,
+    "description":"A modern styled sport jacket that combines a classic silhouette with moisture-wicking fabrics. Technical features include a reversed coil zipper with reflective stripe, interior media exit port, and built-in media pocket.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Additional Features:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;94% polyester, 6% spandex.&lt;/li&gt;&lt;li&gt;Available in black with the white Google logo heat transferred onto right hip along zipper.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+    "image":"https://github.com/azania-neptune-labs/Galleries/blob/master/clover-nestle/carnation-logo-round.png?raw=true",
+    "largeImage":"https://raw.githubusercontent.com/azania-neptune-labs/Galleries/master/clover-nestle/carnation-logo-round.png"
+  },
+  {
+    "name":"Nestlé Purina Petcare is an American subsidiary of Nestlé. It produces and markets pet food, treats and litter. ",
+    "title":"Nestlé Purina Petcare is an American subsidiary of Nestlé. It produces and markets pet food, treats and litter. ",
+    "category":"ladies_outerwear",
+    "price":64.20,
+    "description":"Nestlé Purina Petcare is an American subsidiary of Nestlé. It produces and markets pet food, treats and litter. ;",
+    "image":"https://github.com/azania-neptune-labs/Galleries/blob/master/clover-nestle/purina-logo-round%20(1).png?raw=true",
+    "largeImage":"https://raw.githubusercontent.com/azania-neptune-labs/Galleries/master/clover-nestle/purina-logo-round%20(1).png"
+  }
+]
